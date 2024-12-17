@@ -76,6 +76,8 @@ int http_request(char *city) {
 
     curl_easy_cleanup(curl);
 
+    free(response.string);
+
     return 0;
 }
 
