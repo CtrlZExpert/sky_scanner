@@ -11,7 +11,6 @@ Sky Scanner is a command-line tool (CLI) that will fetch and display the current
 
 
 Goals
->>>>>>> b4b79e3 (A: Initial commit)
 
 - Learn to work with external APIs using C.
 
@@ -19,20 +18,17 @@ Goals
 
 - Gain experience handling user input and errors.
 
-<<<<<<< HEAD
 - Memory management for dynamic data.
 
 ## Planned Features
 =======
 
 Planned Features
->>>>>>> b4b79e3 (A: Initial commit)
 
 - Fetch current weather for any city worldwide.
 
 - Display:
 
-<<<<<<< HEAD
     - Temperature (Celsius or Fahrenheit)
 
     - Weather condition (e.g., "Clear Sky")
