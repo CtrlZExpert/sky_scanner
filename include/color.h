@@ -1,0 +1,7 @@
+#define RED "\033[31m"
+#define BLUE "\x1b[34m"
+#define GREEN "\x1b[32m"
+#define YELLOW "\x1b[33m"
+#define MAGENTA "\x1b[35m"
+#define CYAN "\x1b[36m"
+#define RESET "\033[0m"
