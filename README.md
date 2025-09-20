@@ -3,10 +3,6 @@
 Sky Scanner is a command-line tool (CLI) that will fetch and display the current weather for a given city. It retrieves weather information from an external API and presents it in a simple format. This is my first project to practice using C for a real-world application.
 
 ## Goals
-=======
-SKY SCANNER
-
-Sky Scanner is a command-line tool (CLI) that will fetch and display the current weather for a given city. It retrieves weather information from an external API and presents it in a simple format. This is my first project to practice using C for a real-world application.
 
 
 Goals
@@ -20,7 +16,7 @@ Goals
 - Memory management for dynamic data.
 
 ## Planned Features
-=======
+
 
 Planned Features
 
